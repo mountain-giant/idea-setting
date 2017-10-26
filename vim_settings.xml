@@ -1,0 +1,47 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1509025323515">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/incubator-rocketmq-externals/rocketmq-console/src/main/resources/static/view/pages/cluster.html" timestamp="1509025119276">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="19" column="6" filename="$USER_HOME$/workspace/incubator-rocketmq-externals/rocketmq-console/src/main/resources/static/view/pages/cluster.html" />
+      <jump line="18" column="22" filename="$USER_HOME$/workspace/incubator-rocketmq-externals/rocketmq-console/src/main/resources/static/view/pages/cluster.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/incubator-rocketmq-externals/rocketmq-console/src/main/resources/static/view/pages/cluster.html" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZy1tb2RlbD0ic2VsZWN0ZWRDbHVzdGVyIgo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZy1tb2RlbD0ic2VsZWN0ZWRDbHVzdGVyIgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>u</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

@@ -1,7 +1,12 @@
 <templateSet group="other">
-  <template name="kh" value="{" toReformat="false" toShortenFQNames="true">
+  <template name="kh" value="{" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="log" value="private static final Logger logger = LoggerFactory.getLogger($CLASS$.class);" description="log" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
